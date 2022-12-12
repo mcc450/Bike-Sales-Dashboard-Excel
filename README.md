@@ -1,7 +1,7 @@
 # Bike Sales Dashboard - Excel
-This project was completed in Excel to find patterns in bike purchase trends to improve marketing strategies. This analysis could also be used as a basis for further exploration into how to best utlize public transportation systems and pedestrian/cyclist facilities.
+This project was completed in Excel to find patterns in bike purchase trends to improve marketing strategies. This analysis could also be used as a basis for further exploration into how to best utilize public transportation systems and pedestrian/cyclist facilities.
 
-The Excel file which includes both the data and dashboard are availbe in this repository.
+The Excel file which includes both the data and dashboard are available in this repository.
 
 ## Summary
 Data was sourced from "Alex the Analyst" on YouTube.
